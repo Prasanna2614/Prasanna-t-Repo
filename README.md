@@ -1,0 +1,1 @@
+This is a RESTful API built using Java and Spring Boot. It provides endpoints to manage resources such as [example: users, products, tasks — replace with your actual entities]. The API follows standard CRUD operations and returns data in JSON format.
